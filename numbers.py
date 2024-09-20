@@ -1,7 +1,7 @@
 import random
-
+#комментарий
 number_to_guess = random.randint(1, 100)
-
+#комментарий 2
 while True:
     guess = int(input("Угадай число от 1 до 100: "))
 
